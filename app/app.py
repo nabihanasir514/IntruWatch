@@ -4,11 +4,10 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-color: #FFFFF; /* Light blue background for the entire app */
+        background-color: #FFFFF; 
     }
-    /* You can target other elements like the sidebar or specific widgets */
     .stSidebar {
-        background-color: #483490; /* Lavender background for the sidebar */
+        background-color: #483490; 
     }
     </style>
     """,
