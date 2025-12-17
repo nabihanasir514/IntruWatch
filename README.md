@@ -1,4 +1,3 @@
-Here’s a **short, professional, GitHub-ready README** for your **IntruWatch** Streamlit project:
 
 ---
 
